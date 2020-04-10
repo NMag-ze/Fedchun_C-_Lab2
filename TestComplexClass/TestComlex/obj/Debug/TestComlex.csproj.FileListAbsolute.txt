@@ -1,0 +1,21 @@
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\TestComlex\TestComlex\obj\Debug\TestComlex.csprojAssemblyReference.cache
+C:\Users\N\Desktop\TestComlex\TestComlex\bin\Debug\TestComlex.exe.config
+C:\Users\N\Desktop\TestComlex\TestComlex\bin\Debug\TestComlex.exe
+C:\Users\N\Desktop\TestComlex\TestComlex\bin\Debug\TestComlex.pdb
+C:\Users\N\Desktop\TestComlex\TestComlex\bin\Debug\ComplexClass.dll
+C:\Users\N\Desktop\TestComlex\TestComlex\bin\Debug\ComplexClass.pdb
+C:\Users\N\Desktop\TestComlex\TestComlex\obj\Debug\TestComlex.csprojAssemblyReference.cache
+C:\Users\N\Desktop\TestComlex\TestComlex\obj\Debug\TestComlex.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\TestComlex\TestComlex\obj\Debug\TestComlex.csproj.CopyComplete
+C:\Users\N\Desktop\TestComlex\TestComlex\obj\Debug\TestComlex.exe
+C:\Users\N\Desktop\TestComlex\TestComlex\obj\Debug\TestComlex.pdb
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\bin\Debug\TestComlex.exe.config
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\bin\Debug\TestComlex.exe
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\bin\Debug\TestComlex.pdb
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\bin\Debug\ComplexClass.dll
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\bin\Debug\ComplexClass.pdb
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\obj\Debug\TestComlex.csprojAssemblyReference.cache
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\obj\Debug\TestComlex.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\obj\Debug\TestComlex.csproj.CopyComplete
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\obj\Debug\TestComlex.exe
+C:\Users\N\Desktop\LabWork2\TestComlex\TestComlex\obj\Debug\TestComlex.pdb

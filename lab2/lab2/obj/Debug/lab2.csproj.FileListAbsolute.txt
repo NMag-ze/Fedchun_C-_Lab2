@@ -1,0 +1,20 @@
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\bin\Debug\lab2.exe.config
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\bin\Debug\lab2.exe
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\bin\Debug\lab2.pdb
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\obj\Debug\lab2.exe
+D:\Systems\System\3 kurs 2 semestr\си#\ЛР_02 (Операторы и операции readline writeline)\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\N\Desktop\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\N\Desktop\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\N\Desktop\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\N\Desktop\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\N\Desktop\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\N\Desktop\lab2\lab2\obj\Debug\lab2.pdb
+C:\Users\N\Desktop\LabWork2\lab2\lab2\bin\Debug\lab2.exe.config
+C:\Users\N\Desktop\LabWork2\lab2\lab2\bin\Debug\lab2.exe
+C:\Users\N\Desktop\LabWork2\lab2\lab2\bin\Debug\lab2.pdb
+C:\Users\N\Desktop\LabWork2\lab2\lab2\obj\Debug\lab2.csprojAssemblyReference.cache
+C:\Users\N\Desktop\LabWork2\lab2\lab2\obj\Debug\lab2.csproj.CoreCompileInputs.cache
+C:\Users\N\Desktop\LabWork2\lab2\lab2\obj\Debug\lab2.exe
+C:\Users\N\Desktop\LabWork2\lab2\lab2\obj\Debug\lab2.pdb
